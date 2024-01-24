@@ -1,4 +1,4 @@
 
 ### My webpage
 
-[Link](lehninger.org)
+[Link](https://lehninger.org)
